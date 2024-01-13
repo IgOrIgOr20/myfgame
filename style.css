@@ -1,0 +1,18 @@
+header, footer{
+    background-color: rgb(102, 60, 150);
+    max-height: 500px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+.mfg{
+color: white;
+}
+.hog{
+    color: aliceblue;
+}
+a{
+    color: rgb(77, 199, 255);
+    text-decoration: none;
+}
