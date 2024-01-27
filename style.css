@@ -12,7 +12,17 @@ color: white;
 .hog{
     color: aliceblue;
 }
+.ng{
+    color: aliceblue;
+}
+.hu{
+    color: aliceblue;
+}
 a{
     color: rgb(77, 199, 255);
     text-decoration: none;
+}
+img{
+width: 700px;
+height: 400px;
 }
